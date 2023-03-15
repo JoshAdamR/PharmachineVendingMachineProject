@@ -1,0 +1,92 @@
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe.config
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.pdb
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminForm.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.pdb
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.NewProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.EditProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AboutPharmachine.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminSplash.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.LoginForm.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.DynamicQ.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe.config
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AboutPharmachine.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminForm.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminSplash.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.DynamicQ.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.EditProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.LoginForm.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.NewProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe.config
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AboutPharmachine.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminForm.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminSplash.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.DynamicQ.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.EditProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.LoginForm.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.NewProduct.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe.config
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AboutPharmachine.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminForm.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminSplash.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.DynamicQ.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.EditProduct.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.LoginForm.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.Resources.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.NewProduct.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe.config
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\bin\Debug\PharmachineAdmin.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AboutPharmachine.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminForm.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.AdminSplash.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.DynamicQ.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.EditProduct.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.LoginForm.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.Resources.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.NewProduct.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineAdmin\PharmachineAdmin\obj\Debug\PharmachineAdmin.pdb
