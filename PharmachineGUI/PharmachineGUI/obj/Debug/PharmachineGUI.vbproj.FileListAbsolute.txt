@@ -1,0 +1,105 @@
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\Pharmachine\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\New Pharmachine\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\susukacang\Desktop\VBLearning\PHARMACHINE\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\New folder\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe.config
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.pdb
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\bin\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.AboutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.CheckoutPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.DetailsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.ListPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StartPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.Resources.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.StatsPage.resources
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.exe
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.xml
+C:\Users\joshu\Desktop\Pharmafriends Program Submission\DevFile\PharmachineGUI\PharmachineGUI\obj\Debug\PharmachineGUI.pdb
